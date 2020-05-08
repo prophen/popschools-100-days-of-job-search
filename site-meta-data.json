@@ -1,10 +1,10 @@
 {
-  "title": "Delog",
-  "siteUrl": "https://delog-w3layouts.netlify.com/",
-  "description": "Delog, a GatsbyJS and Netlify CMS starter for Designers and Developers",
+  "title": "100 Days of Job Search",
+  "siteUrl": "https://100daysofjobsearch.com",
+  "description": "#100DaysOfJobSearchChallenge",
   "home": {
-    "title": "Hi! I'm Delog",
-    "description": "I have been specifically designed to become a digital home for designers and developers, help them build amazing professional looking websites with ease. You don't have to worry about nitty gritty of web hosting services to run a blog and yet take full advantage of CMS to manage content :)"
+    "title": "Welcome to the 100 Days of Job Search",
+    "description": "More info to come. Let's start the challenge on Monday May 11, 2019!"
   },
-  "w3l_dom_key": "5e609f7a2d23fCF_Domain_verify"
+  "w3l_dom_key": ""
 }
