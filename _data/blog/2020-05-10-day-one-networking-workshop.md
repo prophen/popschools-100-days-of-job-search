@@ -1,6 +1,6 @@
 ---
 template: BlogPost
-path: /blog
+path: /networking-workshop
 date: 2020-05-10T18:06:24.656Z
 title: Day One Networking Workshop
 thumbnail: /assets/allie-I3nD16F56Ko-unsplash.jpg
